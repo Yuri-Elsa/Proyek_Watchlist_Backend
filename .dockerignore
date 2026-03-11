@@ -1,0 +1,7 @@
+.gradle/
+build/
+uploads/
+*.md
+.git/
+.gitignore
+docker-compose.yml
